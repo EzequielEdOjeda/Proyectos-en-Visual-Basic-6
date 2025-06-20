@@ -13,3 +13,5 @@ Este conjunto de proyectos incluye aplicaciones desarrolladas en Visual Basic 6 
 ![Variedad Propia](PNG/5.png)
 
 ![Propio y Modificaciones](PNG/6.png)
+
+## No olvides darle ⭐ a este repositorio si te gustó.
